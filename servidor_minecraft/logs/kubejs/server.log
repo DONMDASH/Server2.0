@@ -1,0 +1,100 @@
+[20:40:30] [INIT] KubeJS 2001.6.5-build.14; MC 2001 forge
+[20:40:30] [INIT] Loaded plugins:
+[20:40:30] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[20:40:30] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[20:40:30] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[20:40:30] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[20:40:30] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[20:40:30] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[20:40:30] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[20:40:30] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[20:40:30] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[20:40:30] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[20:40:30] [INIT] - novamachina.exnihilosequentia.common.compat.kubejs.KubeJSExNihiloPlugin
+[20:40:32] [INFO] Loaded script server_scripts:tags.js in 0.013 s
+[20:40:32] [INFO] Loaded script server_scripts:multipart_bus_hatch.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:augments.js in 0.002 s
+[20:40:32] [INFO] Loaded script server_scripts:multiblock recipes/kinetic_box.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:multiblock recipes/large_barrel.js in 0.003 s
+[20:40:32] [INFO] Loaded script server_scripts:multiblock recipes/chemical_builder.js in 0.002 s
+[20:40:32] [INFO] Loaded script server_scripts:multiblock recipes/chemical_plant.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:multiblock recipes/cobbleworks.js in 0.003 s
+[20:40:32] [INFO] Loaded script server_scripts:multiblock recipes/large_stone_barrel.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:multiblock recipes/large_farm.js in 0.002 s
+[20:40:32] [INFO] Loaded script server_scripts:multiblock recipes/ore_processing_plant.js in 0.002 s
+[20:40:32] [INFO] Loaded script server_scripts:multiblock recipes/tree_greenhouse.js in 0.002 s
+[20:40:32] [INFO] Loaded script server_scripts:multiblock recipes/ore_factory.js in 0.004 s
+[20:40:32] [INFO] Loaded script server_scripts:multiblock recipes/large_sieve.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:multiblock recipes/large_rock_crusher.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:universal_circuits.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:nuclear_reactors/not_ready.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:nuclear_reactors/fission/nuclear_fission.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:nuclear_reactors/fission/rod_compression.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:nuclear_reactors/fission/rod_centrifuging.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:nuclear_reactors/fission/nuclear_reactor.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:gregification/exnihilo.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:gregification/xycraft.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:gregification/flux_networks.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:gregification/solar_energy.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:gregification/thermal.js in 0.007 s
+[20:40:32] [INFO] Loaded script server_scripts:gregification/item_collectors.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:gregification/create.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:gregification/travel_anchors.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:gregification/nuclearcraft.js in 0.007 s
+[20:40:32] [INFO] Loaded script server_scripts:gregification/functional_storage.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:gregification/ae2/ae2.js in 0.005 s
+[20:40:32] [INFO] Loaded script server_scripts:gregification/ae2/ae2_things.js in 0.003 s
+[20:40:32] [INFO] Loaded script server_scripts:gregification/pipez.js in 0.003 s
+[20:40:32] [INFO] Loaded script server_scripts:converters.js in 0.002 s
+[20:40:32] [INFO] Loaded script server_scripts:lines/nether_star_line.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:lines/netherite_line.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:lines/PEEK_line.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:recipe_changes.js in 0.007 s
+[20:40:32] [INFO] Loaded script server_scripts:circuit_etching.js in 0.002 s
+[20:40:32] [INFO] Loaded script server_scripts:wrench.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:mystical agriculture/essence_burning.js in 0.01 s
+[20:40:32] [INFO] Loaded script server_scripts:mystical agriculture/mysticalagriculture.js in 0.005 s
+[20:40:32] [INFO] Loaded script server_scripts:mystical agriculture/essence_replication.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:mystical agriculture/essence_enchancer.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:mystical agriculture/greenhouse_growing.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:mystical agriculture/cryptands.js in 0.011 s
+[20:40:32] [INFO] Loaded script server_scripts:endgame content/fluid_veins.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:endgame content/void_line.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:endgame content/zapolgium_line.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:endgame content/uhv_components.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:endgame content/zirconium_line.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:endgame content/ore_veins.js in 0.002 s
+[20:40:32] [INFO] Loaded script server_scripts:endgame content/draconic_circuits.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:endgame content/recipes.js in 0.004 s
+[20:40:32] [INFO] Loaded script server_scripts:endgame content/calamatium_isovol_line.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:endgame content/mythril_line.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:endgame content/adamantine_line.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:endgame content/estalt_line.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:early_game/primitive_alloy_smelter.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:early_game/alloying.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:early_game/sieving.js in 0.002 s
+[20:40:32] [INFO] Loaded script server_scripts:early_game/kinetic_ore_factory.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:early_game/solid_blast_furnace.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:early_game/kinetic_sieve.js in 0.0 s
+[20:40:32] [INFO] Loaded script server_scripts:removals.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:superconductors.js in 0.001 s
+[20:40:32] [INFO] Loaded script server_scripts:nuclear.js in 0.001 s
+[20:40:32] [INFO] Loaded 68/68 KubeJS server scripts in 0.321 s with 0 errors and 0 warnings
+[20:40:32] [INFO] Scripts loaded
+[20:40:32] [INFO] Initializing recipe event...
+[20:40:38] [INFO] [minecraft:item] Found 6074 tags, added 15 objects, removed 0 objects
+[20:40:39] [INFO] [minecraft:block] Found 1420 tags, added 913 objects, removed 0 objects
+[20:40:51] [INFO] Processing recipes...
+[20:40:51] [WARN] Failed to parse recipe 'thermal:devices/tree_extractor/tree_extractor_cherry[thermal:tree_extractor]'! Falling back to vanilla: Non [a-z0-9_.-] character in namespace of location: {\"Name\":\"minecraft:cherry_log\"}
+[20:40:52] [WARN] Failed to parse recipe 'thermal:devices/tree_extractor/tree_extractor_oak[thermal:tree_extractor]'! Falling back to vanilla: Non [a-z0-9_.-] character in namespace of location: {\"Name\":\"minecraft:oak_log\"}
+[20:40:52] [WARN] Failed to parse recipe 'thermal:devices/tree_extractor/tree_extractor_dark_oak[thermal:tree_extractor]'! Falling back to vanilla: Non [a-z0-9_.-] character in namespace of location: {\"Name\":\"minecraft:dark_oak_log\",\"Properties\":{\"axis\":\"y\"}}
+[20:40:52] [WARN] Failed to parse recipe 'thermal:devices/tree_extractor/tree_extractor_spruce[thermal:tree_extractor]'! Falling back to vanilla: Non [a-z0-9_.-] character in namespace of location: {\"Name\":\"minecraft:spruce_log\",\"Properties\":{\"axis\":\"y\"}}
+[20:40:52] [WARN] Failed to parse recipe 'chipped_express:stonecutting_chipped_course_sand_from_sand[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[20:40:52] [WARN] Failed to parse recipe 'thermal:devices/tree_extractor/tree_extractor_rubberwood[thermal:tree_extractor]'! Falling back to vanilla: Non [a-z0-9_.-] character in namespace of location: {\"Name\":\"thermal:rubberwood_log\",\"Properties\":{\"axis\":\"y\"}}
+[20:40:53] [WARN] Failed to parse recipe 'thermal:devices/tree_extractor/tree_extractor_jungle[thermal:tree_extractor]'! Falling back to vanilla: Non [a-z0-9_.-] character in namespace of location: {\"Name\":\"minecraft:jungle_log\",\"Properties\":{\"axis\":\"y\"}}
+[20:40:53] [WARN] Failed to parse recipe 'thermal:devices/tree_extractor/tree_extractor_birch[thermal:tree_extractor]'! Falling back to vanilla: Non [a-z0-9_.-] character in namespace of location: {\"Name\":\"minecraft:birch_log\",\"Properties\":{\"axis\":\"y\"}}
+[20:40:54] [WARN] Failed to parse recipe 'thermal:devices/tree_extractor/tree_extractor_acacia[thermal:tree_extractor]'! Falling back to vanilla: Non [a-z0-9_.-] character in namespace of location: {\"Name\":\"minecraft:acacia_log\",\"Properties\":{\"axis\":\"y\"}}
+[20:40:54] [INFO] Found 57937 recipes in 3.297 s
+[20:41:43] [INFO] Posted recipe events in 48.92 s
+[20:41:48] [INFO] Added 1862 recipes, removed 5326 recipes, modified 840 recipes, with 0 failed recipes in 5.115 s
+[20:41:53] [INFO] Server resource reload complete!

@@ -1,0 +1,68 @@
+[20:40:01] [INIT] KubeJS 2001.6.5-build.14; MC 2001 forge
+[20:40:01] [INIT] Loaded plugins:
+[20:40:01] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[20:40:01] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[20:40:01] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[20:40:01] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[20:40:01] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[20:40:01] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[20:40:01] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[20:40:01] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[20:40:01] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[20:40:01] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[20:40:01] [INIT] - novamachina.exnihilosequentia.common.compat.kubejs.KubeJSExNihiloPlugin
+[20:40:03] [INFO] Loaded script startup_scripts:augments.js in 0.082 s
+[20:40:03] [INFO] Loaded script startup_scripts:world_gen_layers.js in 0.003 s
+[20:40:04] [INFO] Loaded script startup_scripts:custom blocks and items.js in 0.038 s
+[20:40:04] [INFO] Loaded script startup_scripts:machines/Mystical Agriculture/essence_burner.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:machines/Mystical Agriculture/greenhouse.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/early game/large_barrel.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/early game/large_stone_barrel.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/early game/large_farm.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/early game/solid_blast_furnace.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/early game/kinetic_sieve.js in 0.002 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/heat_chamber.js in 0.003 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/Mystical Agriculture/essence_replication.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/Mystical Agriculture/essence_enchancer.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/runic_circuitry_assembling_station.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/chemical_builder.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/super_pressure_heat_chamber.js in 0.002 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/large sieve/cobbleworks.js in 0.002 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/large sieve/large_sieve.js in 0.002 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/chemical_plant.js in 0.002 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/large_rotor_machine.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/ore factories/electrico_kinetic_ore_factory.js in 0.002 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/ore factories/ore_processing_plant.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/ore factories/kinetic_ore_factory.js in 0.002 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/large_cubes/large_centrifuge.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/large_cubes/large_bender.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/large_cubes/large_sifter.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/large_cubes/large_lathe.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/large_cubes/large_mixer.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/large_cubes/large_forming_press.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/large_cubes/large_thermal_centrifuge.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/large_cubes/large_macerator.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/large_cubes/large_wiremill.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/large_cubes/large_extruder.js in 0.0 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/large_cubes/large_electrolyzer.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/large_cubes/large_ore_washer.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/large_cubes/large_rock_crusher.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/primitive_alloy_smelter.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/large_quantum_compressor.js in 0.002 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/no use yet/component_assembly.js in 0.001 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/disabled/kinetic_box.js in 0.0 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/disabled/super_dynamo.js in 0.0 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/disabled/petrochemical_plant.js in 0.0 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/tree_greenhouse.js in 0.002 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/nuclear reactor/nuclear_turbine.js in 0.0 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/nuclear reactor/nuclear_reactor.js in 0.002 s
+[20:40:04] [INFO] Loaded script startup_scripts:multiblocks/stargate_component_assembly.js in 0.003 s
+[20:40:04] [INFO] elements and materials.js#4: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.IngotProperty'
+[20:40:04] [INFO] elements and materials.js#5: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.DustProperty'
+[20:40:04] [INFO] elements and materials.js#6: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.FluidProperty'
+[20:40:04] [INFO] elements and materials.js#7: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.BlastProperty'
+[20:40:04] [INFO] Loaded script startup_scripts:elements and materials.js in 0.071 s
+[20:40:04] [INFO] Loaded 47/47 KubeJS startup scripts in 1.581 s with 0 errors and 0 warnings
+[20:40:04] [WARN] custom blocks and items.js#313: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:40:04] [WARN] custom blocks and items.js#465: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:40:04] [WARN] custom blocks and items.js#491: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!

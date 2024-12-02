@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "8265edcb7272447b833a86693969b52c"
+	name: "Leak2123#8265edcb"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

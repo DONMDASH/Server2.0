@@ -1,0 +1,39 @@
+{
+	id: "2ab04ede-4b77-4d3c-8cb1-09ab77f3044c"
+	type: "party"
+	owner: "4fa9b105-d3e1-4f60-a31a-3ac5dc142943"
+	ranks: {
+		8265edcb-7272-447b-833a-86693969b52c: "officer"
+		4fa9b105-d3e1-4f60-a31a-3ac5dc142943: "owner"
+		8e660760-1332-487b-ad32-799929554544: "officer"
+	}
+	properties: {
+		"ftbteams:display_name": "Lapartyda de cara"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9A59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1732333129078L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"eldemedazh\"}]}" }
+		{ from: "4fa9b105-d3e1-4f60-a31a-3ac5dc142943", date: 1732333136383L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Leak2123\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1732333139568L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Leak2123\"}]}" }
+		{ from: "4fa9b105-d3e1-4f60-a31a-3ac5dc142943", date: 1732333169511L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"Leak2123\"}]}" }
+		{ from: "4fa9b105-d3e1-4f60-a31a-3ac5dc142943", date: 1732398490450L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"ItsAkashi\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1732398497461L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ItsAkashi\"}]}" }
+		{ from: "4fa9b105-d3e1-4f60-a31a-3ac5dc142943", date: 1732398501184L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"ItsAkashi\"}]}" }
+	]
+	extra: { }
+}

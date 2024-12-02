@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "4fa9b105d3e14f60a31a3ac5dc142943"
+	name: "eldemedazh#4fa9b105"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

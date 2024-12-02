@@ -1,0 +1,50 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	last_login_time: 1732653771958L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: 1, z: 0, time: 1732403377310L, force_loaded: 1732403383398L }
+			{ x: 0, z: -2, time: 1732403375613L, force_loaded: 1732403382971L }
+			{ x: 2, z: 0, time: 1732403377669L, force_loaded: 1732403382969L }
+			{ x: 1, z: -3, time: 1732638707213L, force_loaded: 1732638709266L }
+			{ x: -1, z: -1, time: 1732334761834L, force_loaded: 1732334763850L }
+			{ x: 0, z: -1, time: 1732334761834L, force_loaded: 1732334763853L }
+			{ x: -1, z: 2, time: 1732594807280L, force_loaded: 1732594820897L }
+			{ x: 0, z: 1, time: 1732403378625L, force_loaded: 1732403382969L }
+			{ x: 1, z: -4, time: 1732638710713L, force_loaded: 1732638711342L }
+			{ x: 2, z: 1, time: 1732403377954L, force_loaded: 1732403382971L }
+			{ x: 2, z: 2, time: 1732594807280L, force_loaded: 1732594808140L }
+			{ x: 0, z: 0, time: 1732334761834L, force_loaded: 1732334763852L }
+			{ x: 1, z: -2, time: 1732403375612L, force_loaded: 1732653911495L }
+			{ x: 2, z: -1, time: 1732403376292L, force_loaded: 1732403382971L }
+			{ x: -1, z: 1, time: 1732403379917L, force_loaded: 1732403382968L }
+			{ x: -1, z: 0, time: 1732334761834L, force_loaded: 1732334763854L }
+			{ x: 0, z: 2, time: 1732594807279L, force_loaded: 1732594808139L }
+			{ x: 0, z: -3, time: 1732638708463L, force_loaded: 1732638709267L }
+			{ x: 2, z: -2, time: 1732403375613L, force_loaded: 1732403382970L }
+			{ x: 1, z: 1, time: 1732403378371L, force_loaded: 1732403382969L }
+			{ x: 1, z: -1, time: 1732403375613L, force_loaded: 1732403383399L }
+			{ x: 0, z: -4, time: 1732638710714L, force_loaded: 1732638711342L }
+			{ x: 1, z: 2, time: 1732594807280L, force_loaded: 1732594808140L }
+			{ x: -1, z: -2, time: 1732403375612L, force_loaded: 1732403382970L }
+		]
+	}
+	member_data: {
+		8265edcb-7272-447b-833a-86693969b52c: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		4fa9b105-d3e1-4f60-a31a-3ac5dc142943: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		8e660760-1332-487b-ad32-799929554544: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+	}
+}
